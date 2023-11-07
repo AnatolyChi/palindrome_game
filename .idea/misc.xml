@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DetektPluginSettings">
+    <option name="baselinePath" value="$PROJECT_DIR$/../idf-onboarding/idf-onboarding/sonar/config/detekt/baseline.xml" />
+    <option name="configurationFilePaths">
+      <set>
+        <option value="$PROJECT_DIR$/../idf-onboarding/idf-onboarding/sonar/config/detekt/detekt.yml" />
+      </set>
+    </option>
+  </component>
+  <component name="DetektSettingsMigration">
+    <option name="stateVersion" value="2" />
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="zulu-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
